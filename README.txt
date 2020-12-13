@@ -2,7 +2,7 @@
 
  Copyright 2017 Pedro Zorzenon Neto
 
- SUPPORT ME: https://github.com/pzn1977/pep1.git
+ SUPPORT ME: https://www.buymeacoffee.com/pzn77
 
 Proposal: encapsulate and transfer data in a simple format, with
 strong encryption, CRC error detection, for using with different
