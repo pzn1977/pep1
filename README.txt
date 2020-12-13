@@ -2,6 +2,8 @@
 
  Copyright 2017 Pedro Zorzenon Neto
 
+ SUPPORT ME: https://github.com/pzn1977/pep1.git
+
 Proposal: encapsulate and transfer data in a simple format, with
 strong encryption, CRC error detection, for using with different
 physical layers (serial ports, RS485, IP network, etc), able to handle
